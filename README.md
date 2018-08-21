@@ -37,4 +37,4 @@ de mi producto:
 
   
 Primer acercamiento realizado: 
-![User persona opera singer](img/map.jpg)
+![User persona opera singer](img/user.jpg)
